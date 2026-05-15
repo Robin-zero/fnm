@@ -143,7 +143,7 @@ fnm completions --shell <SHELL>
 > 建议显式传入 shell（例如 `fnm env --shell bash`），而不是依赖运行时自动推断。这样会更快一些，也能避免进程树检测。
 
 > [!NOTE]
-> 请查看[配置](./docs/configuration.md)章节以启用强烈推荐的功能，例如自动切换版本。
+> 请查看[配置](./docs/configuration.zh-CN.md)章节以启用强烈推荐的功能，例如自动切换版本。
 
 在项目中添加 `.node-version` 非常简单：
 
@@ -235,13 +235,13 @@ call "%CMDER_ROOT%\bin\fnm_init.cmd"
 
 你也可以将 `%CMDER_ROOT%` 替换为任何你觉得更方便的路径。
 
-## [配置](./docs/configuration.md)
+## [配置](./docs/configuration.zh-CN.md)
 
-[查看可用配置项和更完整的配置文档](./docs/configuration.md)
+[查看可用配置项和更完整的配置文档](./docs/configuration.zh-CN.md)
 
-## [用法](./docs/commands.md)
+## [用法](./docs/commands.zh-CN.md)
 
-[查看可用命令和更完整的用法文档](./docs/commands.md)
+[查看可用命令和更完整的用法文档](./docs/commands.zh-CN.md)
 
 ## 贡献
 
